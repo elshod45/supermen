@@ -1,0 +1,30 @@
+.git {
+    background-color: darkblue;
+    padding: 1299 1399cm;
+}
+.cek {
+    border-radius: 9999cm;
+    background-color: rgba(0, 148, 255, 1);
+}
+.g {
+    background-color: rgba(0, 97, 255, 1);
+    width: 1361px;
+    height: 1399px;
+    top: 120px;
+    left: auto;
+    right: auto;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 3000px;
+
+}
+.FAQ {
+    font-size: 80px;
+}
