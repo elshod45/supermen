@@ -1,0 +1,51 @@
+
+.element {
+    font-size: 15px;
+}
+.fast {
+    font-size: 15px;
+}
+.div {
+    font-size: 15px;
+}
+.pole {
+    font-size: 15px;
+}
+.Showcase {
+    font-size: 15px;
+}
+.tyu {
+    border-radius: 20px;
+    font-size: 12px;
+    background-color: rgba(63, 9, 210, 1);
+    color: rgba(255, 255, 255, 1);
+}
+.class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tre {
+    border-radius: 20px;
+    background-color: rgba(91, 46, 212, 1);
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.font {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

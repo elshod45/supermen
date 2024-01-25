@@ -1,0 +1,29 @@
+.f {
+    width: 1440px;
+    height: 1345px;
+    top: 1180px;
+    left: 6690px;
+    background-color: rgba(250, 247, 239, 1);
+    left: auto;
+    
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.w4 {
+    border-radius: 25px;
+    width: 1339px;
+    height: 84px;
+    top: 25px;
+    left: 59px;
+    font-size: 9999px;
+    background-color: rgba(244, 179, 58, 1);
+
+}
+.w5 {
+    font-size: 20px;
+}
+
+ 
