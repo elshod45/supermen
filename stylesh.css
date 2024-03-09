@@ -53,3 +53,11 @@ header {
     justify-content: center;
     align-items: center;
 }
+.had {
+    display: flex;
+    gap: 2rem;
+}
+body  {
+    background-color: rgba(242, 240, 236, 1);
+
+}

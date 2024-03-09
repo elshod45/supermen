@@ -1,0 +1,41 @@
+body {
+    background-color: #FE9E9E;
+}
+.w {
+    color: black;
+    font-size: 36px;
+    gap: 2rem;
+}
+.ik {
+    gap: 10px;
+    color: black;
+}
+.telik {
+    gap: 10px;
+    color: black;
+}
+.delik {
+    gap: 10px;
+    color: black;
+}
+.gelik {
+    gap: 10px;
+    color: black;
+}
+.lambo {
+    gap: 10px;
+    color: black;
+}
+.a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.karol {
+    display: flex;
+   
+}
+.lamborgini {
+    background-color: #ECECEC;
+    gap: 120px;
+}

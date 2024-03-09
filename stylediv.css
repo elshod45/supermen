@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(23, 97, 182, 1);
+}
+.asist {
+    font-size: 15px;
+}
+.honor {
+    border-radius: 10px;
+    font-size: 15px;
+}
+.trefooot {
+    display: flex;
+    gap: 2rem;
+}
+.radius {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aria {
+    font-size: 70px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ara {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.araund {
+
+    color: white;
+}
+.reod {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dura {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
